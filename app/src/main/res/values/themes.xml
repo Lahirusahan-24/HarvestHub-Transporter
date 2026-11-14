@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.HarvestHubTransporter" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/button_green</item>
+        <item name="colorSecondary">@color/accent_green</item>
+        <item name="colorError">@color/error_red</item>
+        <item name="android:statusBarColor">@color/login_bg_mid</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand / design tokens from the Figma design (HarvestHub UI) -->
+    <color name="button_green">#1E4630</color>
+    <color name="deep_green_text">#1D5C33</color>
+    <color name="accent_green">#2F9E4F</color>
+
+    <color name="mint_chip">#E7F4EB</color>
+    <color name="mint_badge_bg">#E9F5EC</color>
+    <color name="login_bg_top">#E2F1E7</color>
+    <color name="login_bg_mid">#FCFCF9</color>
+
+    <color name="input_fill">#F4F4F1</color>
+    <color name="tab_container">#EFEFEB</color>
+    <color name="card_stroke">#E9E9E5</color>
+    <color name="divider">#E2E2DD</color>
+
+    <color name="text_primary">#161A17</color>
+    <color name="text_secondary">#6E6E66</color>
+    <color name="text_hint">#9B9B93</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="error_red">#B3261E</color>
+</resources>
