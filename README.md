@@ -11,9 +11,10 @@ Implemented screens (from the Figma design "HarvestHub UI", file key `fmEOnxONuf
 
 ## Opening / building the project
 
-This repo is a standard Gradle Android project (`com.android.application` 8.2.2, `compileSdk 34`, `minSdk 24`).
+This repo is a standard Gradle Android project (`com.android.application` 9.1.1, Gradle 9.4.1, `compileSdk 36`, `minSdk 24`).
+The toolchain runs on JDK 17 and newer — including JDK 21/26 — so the system `JAVA_HOME` can stay as-is.
 
-1. Install Android Studio (Hedgehog or newer) and an SDK with platform 34.
+1. Install Android Studio (current stable) and an SDK with platform 36 (Build Tools 36.0.0; the IDE offers to install both during first sync).
 2. `File → Open` this repository root, or `git clone` then open.
 3. Android Studio will create `local.properties` pointing at your SDK and offer to generate the Gradle wrapper if it is missing (the wrapper jar is intentionally not committed).
 4. Run the `app` configuration on an emulator or device. `LoginActivity` is the launcher activity; the two screens are linked by the segmented "Log In / Register Driver" toggle on each screen.
