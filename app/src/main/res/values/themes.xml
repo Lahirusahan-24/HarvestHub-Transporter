@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.HarvestHubTransporter" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/harvest_green_700</item>
+        <item name="colorPrimaryVariant">@color/harvest_green_600</item>
+        <item name="colorSecondary">@color/harvest_amber_500</item>
+        <item name="android:statusBarColor">@color/harvest_green_700</item>
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+</resources>

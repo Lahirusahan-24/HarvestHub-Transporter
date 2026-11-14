@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand palette — to be confirmed/refined against the Figma design.
+         HarvestHub green as a starting point. -->
+    <color name="harvest_green_700">#2E7D32</color>
+    <color name="harvest_green_600">#388E3C</color>
+    <color name="harvest_green_500">#43A047</color>
+    <color name="harvest_green_100">#E8F5E9</color>
+    <color name="harvest_amber_500">#FFB300</color>
+
+    <color name="text_primary">#1B1B1B</color>
+    <color name="text_secondary">#5F6368</color>
+    <color name="background">#FFFFFF</color>
+    <color name="surface">#FFFFFF</color>
+</resources>
